@@ -1,0 +1,33 @@
+O professor usou abstração; fazendo uma tabela e deixando mais organizado as mesas em 6 linhas e 6 colunas.
+
+Após isto utilizou o reconhecimento de padrões encontrando a troca na Quinta mesa.
+
+E a ordem foi trocada de Matemática(M) pelo Português(P).
+
+FIGURA 2 :
+
+4M - COLUNA 1
+
+2M - COLUNA 2
+
+4M - COLUNA 3
+
+2M - COLUNA 4
+
+4M - COLUNA 5
+
+2M - COLUNA 6
+
+FIGURA 3 :
+
+4M - COLUNA 1
+
+2M - COLUNA 2
+
+4M - COLUNA 3
+
+2M - COLUNA 4
+
+3M - COLUNA 5
+
+2M - COLUNA 6
