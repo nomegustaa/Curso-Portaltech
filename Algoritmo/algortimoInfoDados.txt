@@ -1,0 +1,22 @@
+var 
+Nome, Endereço, Cidade: caracter;
+CPF, RG: inteiro;
+
+Inicio
+
+	escreva("Informe seu nome: ");
+	leia(Nome)
+	escreva("Informe seu endereço: ")
+	leia(Endereço)
+	escreva("Informe sua cidade: ")
+	leia(Cidade)
+	escreva("Informe seu CPF: ")
+	leia(CPF)
+	escreva("Informe seu RG: ")
+	leia(RG)
+	escreva("Seu nome é: ", nome)
+	escreva("Seu endereço é: ", Endereço)
+	escreva("Sua cidade é: ", Cidade)
+	escreva("Seu CPF é: ", CPF)
+	escreva("Seu RG é: ", RG)
+Fimalgoritmo
