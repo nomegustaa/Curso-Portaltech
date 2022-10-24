@@ -1,0 +1,18 @@
+Exercício 02
+
+var
+nome:caracter
+contador:inteiro
+inicio
+    nomeEquipe
+    contador
+contador <- 0
+ESCREVA(“Informe o nome da sua equipe”)
+LEIA(nomeEquipe)
+
+ENQUANTO contador <= 5 FACA
+    IMPRIMA nomeEquipe + contador
+    contador <- contador + 1
+
+FIMENQUANTO 
+fimse

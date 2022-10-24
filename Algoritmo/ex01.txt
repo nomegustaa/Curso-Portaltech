@@ -1,0 +1,31 @@
+Exercício 01
+
+Estrutura Condicional Encadeada
+
+var
+e fumante ou com pet:logico
+quantidade de pessoas:inteiro
+mesas disponiveis:inteiro
+inicio
+início
+var é fumante ou com animal de estimação: Lógico;
+var quantidade de pessoas: Inteiro;
+var mesa disponível: Inteiro;
+escreva(“É fumante ou com animal de estimação?”);
+leia(é fumante ou com animal de estimação);
+se (é fumante ou com animal de estimação = verdadeiro) então
+      escreva(“O ambiente adequado é a área externa”);
+senão 
+      escreva(“Qual a quantidade de pessoas:   ”);
+      leia(quantidade de pessoas);
+se (quantidade de pessoas >= 5) então
+     escreva(“O ambiente adequado é o 1º andar”);
+senão (“O ambiente adequado é o térreo”);
+     escreva(“Existe mesa disponível?”);
+leia(mesa disponível);
+se (mesa disponível = verdadeiro) então 
+     escreva(“A mesa disponível é:  ”);
+senão 
+     escreva(“Agradecemos sua preferência, sua senha de espera é: ”);
+fimse;
+fimalgoritimo
