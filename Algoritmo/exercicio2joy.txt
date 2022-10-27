@@ -1,0 +1,38 @@
+Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 26/10/2022
+Var
+// Seção de Declarações das variáveis 
+QuaRodas, QuantidadePV: inteiro;
+PBQ: real;
+
+
+Inicio
+
+      Escreva("Qual a quantidade de rodas do veículo: ")
+      Leia(QuaRodas)
+      Escreva("Qual o Peso em Quilogramas: ")
+      Leia(PBQ)
+      Escreva("Qual a quantidade de pessoas no veículo: ")
+      Leia(QuantidadePV)
+      se (QuaRodas = 2) ou (QuaRodas = 3) ENTAO
+         Escreva("A melhor categoria para você é A")
+         senao
+              se (QuaRodas = 4) e (QuantidadePV = 8) e (PBQ <= 3500) entao
+                Escreva("A melhor categoria para você é B")
+              senao
+                   se (QuaRodas >= 4) e (PBQ >= 3500) e (PBQ <= 6000) entao
+                     Escreva("A melhor categoria para você é C")
+                   senao
+                        se(QuaRodas >= 4) e (QuantidadePV > 8) e (PBQ > 6000) entao
+                                    Escreva("A melhor categoria para você é D")
+                   FimSe
+              FimSe
+         FimSe
+      FimSe
+
+
+Fimalgoritmo
