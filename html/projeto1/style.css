@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+}
+h2{
+    width: 50%;
+}
+
+.body{
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+}
+
+.body-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.form{
+    border: none;
+    background-color: #118D2F;
+    padding: 25px;
+    width: 25%;
+    border-radius: 6px;
+}
+.form-background{
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+
+}
+
+.form input, .form .btn-submit{
+    margin: 10px 0;
+}
+
+.ball{
+    animation: animation-ball 1s alternate infinite;
+}
+.form-background p{
+    text-align: center;
+    font-size: 24px;
+    
+}
+
+@keyframes animation-ball {
+    from{
+        transform: translateY(0px);
+    }
+    to{
+        transform: translateY(50px);
+    }
+}
