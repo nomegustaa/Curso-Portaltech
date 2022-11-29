@@ -1,0 +1,25 @@
+.box-body{
+    background-color: #f7f8fc;
+    width: 25%;
+    text-align: center;
+    border-radius: 6px;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+
+}
+
+.caixa{
+    background-color: #fff;
+    margin: 25px 0;
+    padding: 25px;
+}
+
+.caixa1, .caixa2, .caixa3{
+    color: red;
+}
+
+
+.link-p{
+    color: red;
+}
+
