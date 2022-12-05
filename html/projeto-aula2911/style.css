@@ -23,3 +23,22 @@
     color: red;
 }
 
+h1{
+    display: flex;
+    justify-content: center;
+    background: red;
+    padding: 25px;
+    border-radius: 12px;
+}
+.text{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.text p{
+    background: red;
+    padding: 15px;
+    border-radius: 6px;
+}
