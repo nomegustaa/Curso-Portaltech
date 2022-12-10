@@ -1,0 +1,2 @@
+O movimento ao passar o mouse o elemento "Cursos" ele exibe um menu, uma coisa que eu acredito que 
+se faz com JavaScript.
