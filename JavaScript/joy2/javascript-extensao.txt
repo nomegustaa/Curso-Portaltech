@@ -1,0 +1,4 @@
+Eu escolhi e extensão Live-Server 
+ele permite que você veja a sua página ao vivo no navegador.
+Melhor que isso, ele tem uma atualização em tempo real. Assim, se você atualizar seu código, 
+as mudanças também se refletem no navegador.
